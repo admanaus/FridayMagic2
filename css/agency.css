@@ -244,10 +244,10 @@ header .intro-text {
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
-  font-size: 22px;
+  font-size: 32px;
   line-height: 22px;
   margin-bottom: 25px;
-  color: white;
+  color: #fed136;
 
 }
 header .intro-text .intro-heading {
