@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/hydra.jpg');
+  background-image: url('../img/voidwielder.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -247,7 +247,7 @@ header .intro-text .intro-lead-in {
   font-size: 32px;
   line-height: 22px;
   margin-bottom: 25px;
-  color: #fed136;
+  color: orange;
 
 }
 header .intro-text .intro-heading {
